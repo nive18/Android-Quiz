@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz15</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextView"></string>
+    <string name="TextV"></string>
+    <string name="RadioButton1"></string>
+    <string name="RadioButton2"></string>
+    <string name="RadioButton3"></string>
+    <string name="next">NEXT</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="tview"></string>
+    <string name="result">Results!!!</string>
+    
+</resources>
